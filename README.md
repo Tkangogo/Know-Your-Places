@@ -1,4 +1,4 @@
-# Know Your Places Learning Game
+# Know Your Places Game
 
 ## Overview
 This educational app helps users learn the names and locations of places. The program includes two versions: one for Kenya counties and another for U.S. states. It displays a blank map and prompts users to guess the names of counties or states. When a correct guess is made, the name is displayed at the correct position on the map. At the end of the game, a CSV file is generated with the names of places the user failed to guess, allowing them to review and learn.
